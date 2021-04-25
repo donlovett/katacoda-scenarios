@@ -5,7 +5,7 @@ Let's make sure that our information is where we expect
 
 
 ```
-ls - a
+ls -l
 ```{{execute}}
 
 Great Job!
