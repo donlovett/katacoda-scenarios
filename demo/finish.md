@@ -1,9 +1,11 @@
 Final Thoughts
 
-Well  Padawan - see the far far away fandom at https://starwars.fandom.com/wiki/Padawan
+Well  Padawan - I hope to see you again in a glaxey not so far far away!
 
-https://static.wikia.nocookie.net/starwars/images/8/89/TPMCGYoda.jpg/revision/latest/scale-to-width-down/1000?cb=20111008200709
+![Katacoda Logo](./assets/logo-text-with-head.png)
 
 Our journey together was short but enlighting!
 
 Thanks for coming along!
+
+https://www.katacoda.com/donlovett#!
