@@ -11,15 +11,18 @@ uname -a
 ```{{execute}}
 
 Ok Great|  Let's move to our command to display the "Hello World" text on the screen
+We will echo what we type and concatonate it into the file
 
 ```
-cat "Hello World"
+echo "Hello World"
 ```{{execute}}
 
 Great Job!
 Let's take it a step furthur and save our text to a file
 
-cat "Hello World" > hello.txt
+
+```
+echo "Hello World" > hello.txt
 ```{{execute}}
 
 Perfect!
