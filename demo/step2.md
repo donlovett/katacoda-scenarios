@@ -11,6 +11,8 @@ ls - a
 Great Job!
 Let's take it a step furthur and review the contents of our text in the file
 
+We can use the echo command to display the contents of a file
+
 ```
 cat hello.txt
 ```{{execute}}

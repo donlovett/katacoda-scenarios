@@ -8,7 +8,7 @@ cat > "Hello World from Katacode" helloworld2.txt
 
 You will notice there are now two files
 ```
-uname -a
+ ls -a
 ```{{execute}}
 
 Ok Great|  That was easy Let's finish up 
