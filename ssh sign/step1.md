@@ -23,9 +23,16 @@ Remember that you can just click on the return symbol on the left screen instead
 
 ```
 ssh-keygen -f ssh-key-test -C "This is an SSH key generation test"
-
-
 ```{{execute}}
+
+```
+echo ""
+```{{execute}}
+
+```
+echo ""
+```{{execute}}
+
 
 Great Job!
 
