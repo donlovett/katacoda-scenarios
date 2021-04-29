@@ -29,3 +29,9 @@ cat hello.txt | ssh-keygen -Y check-novalidate -f ssh-key-test -n file -s hello.
 ```{{execute}}
 
 Wow - You did it.  Let's contiune to the next page for a summary of what you just accomplished.
+
+To see all of the options for this command you can enter the manual (man) option
+
+```
+ssh-keygen man
+```{{execute}}
