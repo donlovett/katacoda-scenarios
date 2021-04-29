@@ -27,24 +27,20 @@ ssh-keygen -f ssh-key-test -C "This is an SSH key generation test"
 
 ```
 echo ""
-```{{execute}}
+```{{execute no-newline}}
 
 ```
 echo ""
-```{{execute}}
-
+```{{execute no-newline}}
 
 Great Job!
-
 Next step is to save some text to a file
-
 
 ```
 echo "Hello World" > hello.txt
 ```{{execute}}
 
 
-X
 Perfect!
 
 Let's keep going.
