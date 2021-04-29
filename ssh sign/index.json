@@ -1,8 +1,8 @@
 {
-  "title": "SSh Creation and Demo",
-  "description": "This is a Demonstration of the Creation of an SSH Key on a Linux System.",
+  "title": "SSH Create Key and Sign a Document",
+  "description": "Create and SSH Key, Sign and Verify a Document ",
   "difficulty": "Beginner",
-  "time": "3 minutes",
+  "time": "4",
   "details": {
     "steps": [
       {
@@ -29,6 +29,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "Ubuntu 20.04"
+    "imageid": "ubuntu:2004"
   }
 }
