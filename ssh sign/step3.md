@@ -16,11 +16,6 @@ We can put .sig to indicate the signed version
 cat hello.txt | ssh-keygen -Y sign -n file -f ssh-key-test > hello.txt.sig
 ```{{execute}}
 
-To see all of the options for this command you can enter the manual (man) option
-
-```
-ssh-keygen man
-```{{execute}}
 
 Ok Great|  That was awsome Let's finish up by valadating our signed file called hello.txt.sig 
 

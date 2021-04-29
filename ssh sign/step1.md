@@ -22,10 +22,10 @@ ssh-keygen -f ssh-key-test -C "This is an SSH key generation test" -N ""
 ```{{execute}}
 
 
-
-
 Great Job!
-Next step is to save some text to a file
+Notice the output shows the naming for both keys
+
+Next step is to save some text to a file that we can sign
 
 ```
 echo "Hello World" > hello.txt

@@ -1,7 +1,7 @@
 Good morning
 
 SSH Key Creation
-We are going to be interoduced to how to create a ssh or secure socket shell public and private key in Linux
+We are going to learn how to create a ssh or secure socket shell public and private key in Linux
 
 We are going to learn how to create a Hello World File and then calulate a hash of this file
 
