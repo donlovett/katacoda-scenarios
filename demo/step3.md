@@ -1,6 +1,6 @@
 Step 3
 
-Let's get a little bit creative and add something to our text and use 2 in the text file
+Let's get a little bit creative and add something to our text and use 2 at the end of the text file
 
 ```
 echo  "Hello World from Katacode" > helloworld2.txt

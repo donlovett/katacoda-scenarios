@@ -1,8 +1,6 @@
-Good morning
+Hello
 
-We are going to be interoduced to two commands in Linux
-
-We are going to learn how to show the files in a directory
+This is an introduction that demonstrates learn how to show the files in a directory
 Add a file
 Confirm it exists
 

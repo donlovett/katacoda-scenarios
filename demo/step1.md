@@ -18,7 +18,7 @@ echo "Hello World"
 ```{{execute}}
 
 Great Job!
-Let's take it a step furthur and save our text to a file
+Let's take it another step and save our text to a file
 
 
 ```
