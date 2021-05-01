@@ -1,6 +1,6 @@
 Let's confirm where we are
 
-Rather than type the commands on the right part of the screen - Just click on the symbol at the end of the command.
+Rather than type the commands on the right part of the screen - Just click on the return symbol at the end of the command.
 
 First practice
 
